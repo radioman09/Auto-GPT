@@ -9,3 +9,5 @@ auto_gpt_workspace/*
 .env
 outputs/*
 ai_settings.yaml
+# ignore folder .venv
+.venv
